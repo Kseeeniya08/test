@@ -7,7 +7,7 @@ int main()
 	cin>> a;
 	cout <<"vvedite b:\n";
 	cin>> b;
-	c=a+b;
+	c=a-b;
 	cout<<"summa:"<<c;
 	return 0;
 }
